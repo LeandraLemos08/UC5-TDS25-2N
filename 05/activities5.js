@@ -7,7 +7,7 @@ A) Complete com o verbo correto:
 
 3. He studies (study) English.
 
-4. I fixes (fix) the bug.
+4. I drink (drink) coffee.
 
 B) Transforme em negativa:
 
