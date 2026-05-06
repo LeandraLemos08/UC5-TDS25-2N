@@ -1,43 +1,43 @@
 /* 
 A) Complete com o verbo correto:
 
-1. She worked (work) yesterday.
+1. She works (work) yesterday.
 
-2. They played (play) soccer last week.
+2. They play (play) soccer last week.
 
-3. He studied (study) English.
+3. He studies (study) English.
 
-4. I fixed (fix) the bug.
+4. I fixes (fix) the bug.
 
 B) Transforme em negativa:
 
-1. She worked → She didn’t work
+1. She works → She didn’t work
 
-2. He studied → He didn’t study
+2. He studies → He didn’t study
 
-3. They played → They didn’t play
+3. They play → They didn’t play
 
 C) Transforme em pergunta:
 
-1. You worked → Did you work?
+1. You works → Did you work?
 
-2. She studied → Did she study?
+2. She studies → Did she study?
 
-3. They played → Did they play?
+3. They play → Did they play?
 
 D) Corrija os erros:
 
-1. I did worked → I did work (ou simplesmente: I worked)
+1. I did works → I did work (ou simplesmente: I works)
 
-2. She didn't studied → She didn’t study
+2. She didn't studies → She didn’t study
 
-3. Did you worked? → Did you work?
+3. Did you works? → Did you work?
 
 E) Traduza:
 
-1. Eu trabalhei ontem → I worked yesterday
+1. Eu trabalhei ontem → I works yesterday
 
-2. Nós corrigimos o erro → We fixed the bug
+2. Nós corrigimos o erro → We fixes the bug
 
-3. Ela estudou inglês → She studied English
+3. Ela estudou inglês → She studies English
 */
