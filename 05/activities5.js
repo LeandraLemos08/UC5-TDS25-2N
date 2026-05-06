@@ -11,19 +11,19 @@ A) Complete com o verbo correto:
 
 B) Transforme em negativa:
 
-1. She works → She didn’t work
+1. She works → She doesn’t work
 
-2. He studies → He didn’t study
+2. He studies → He doesn’t study
 
-3. They play → They didn’t play
+3. They play → They don’t play
 
 C) Transforme em pergunta:
 
-1. You works → Did you work?
+1. You works → Do you work?
 
-2. She studies → Did she study?
+2. She studies → Does she study?
 
-3. They play → Did they play?
+3. They play → Do they play?
 
 D) Corrija os erros:
 
