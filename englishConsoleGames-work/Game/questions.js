@@ -83,6 +83,111 @@ const QUESTIONS = {
       explanation:
         "Future Simple: WILL + base form of verb (no changes). → 'I WILL TRAVEL next year.'",
     },
+    {
+      question:
+      "Complete with did: ____ you see the movie yesterday?",
+      options: [
+        "A) Do", "B) Does", "C) Did", "Doed"
+      ],
+      answer: "A",
+      explanation:
+      "We use do with I, you, we, they. You  requires do."
+    },
+    {
+      question:
+        "What does Simple Present express? Choose the BEST answer.",
+      options: [
+        "A) An action happenning right now.",
+        "B) An action that happened yesterday.",
+        "C) Habits, routines and general truths.",
+        "D) An action that will happen tomorrow."
+      ],
+      answer: "C",
+      explanation:
+      "Simple Present is used for habits, routines and general truths. For example: 'The sun RISES in the east'."
+    },
+    {
+      question:
+      "Wich sentence is in the Present Continuous NEGATIVE?",
+      options: [
+        "A) I am not sleeping.",
+        "B) I is not sleeping.",
+        "C) I are not sleeping.",
+        "D) I not sleeping."
+      ],
+      answer: "A",
+      explanation: 
+      "Present Continuous Negative: AM/ IS/ ARE + not + verbING. For 'I' use am not. Like 'I am not...'"
+    }
   ],
+
+  hard: [
+    {
+      question:
+      "Wich sentence is correctly written in the Simple Past?",
+      options: [
+        "A) She goed to the market yesterday.",
+        "B) She go to the market yesterday.",
+        "C) She went to the market yesterday.",
+        "D) She goes to the market yesterday."
+      ],
+      answer: "C",
+      explanation:
+      "'Go' is an irregular verb. Its Simple Past form is 'went'."
+    }, 
+    {
+      question:
+      "Choose the correct future sentence using WILL:",
+      options: [
+        "A) She will goes to the gym tomorrow.",
+        "B) She will going to the gym tomorrow.",
+        "C) She will go to the gym tomorrow.",
+        "D) She wills go to the gym tomorrow."
+      ],
+      answer: "C",
+      explanation:
+      "Future with WILL: Will + base form."
+
+    }, 
+    {
+     question:
+     "Wich is a correctly regular verb in the Simple Past?",
+     options: [
+      "A) I buyed a new phone.",
+      "B) I buied a new phone.",
+      "C) I buys a new phone.",
+      "D) I bought a new phone."
+     ],
+     answer: "D",
+     explanation:
+     "'Buy' is an irregular verb. Its Simple Past form is 'Bought'."
+    }, 
+    {
+     question:
+     "Wich sentence uses 'GOING TO' correctly for the future?",
+     options: [
+      "A) They are going to travels next week.",
+      "B) They are going to travel next week.",
+      "C) They is going to travel next week.",
+      "D) They going to travel next week."
+     ],
+     answer: "B",
+     explanation:
+     "Future with GOING TO: AM/ IS/ ARE + GOING TO + base verb. For 'they', use 'are'."
+    },
+    {
+     questions:
+     "What is the difference between WILL and GOING TO?",
+     options: [
+      "A) They mean the same thing and can always be swapped.",
+      "B) WILL is for past, GOING TO is for present.",
+      "C) WILL is for future actions; GOING TO is for planned actions.",
+      "D) GOING TO is only used in negative sentences.",
+     ],
+     answer: "C",
+     explanation:
+     "Will is for future actions. GOING TO is for planned actions. Like 'I will study tomorrow' and 'I am going to study.'"
+    },
+  ]
 }
 module.exports = QUESTIONS;
