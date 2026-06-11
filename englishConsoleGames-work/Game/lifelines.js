@@ -49,7 +49,7 @@ const wrongPcts = [];
   console.log();
 
   sleep(1500);
-   rl.question(" Press ENTER to continue...");
+
 }
 
 function callFriend(question) {
@@ -84,7 +84,6 @@ function callFriend(question) {
   console.log(C.dim + `  Confidence: ${confidence}%` + C.reset);
   console.log();
   sleep(1300);
-   rl.question(" Press ENTER to continue...");
 }
 
 module.exports = { fiftyFifty, audienceHelp, callFriend };
